@@ -1,0 +1,19 @@
+{
+    "name": "rpg-game/combat",
+    "description": "Silly game to refresh PHP concept things from",
+    "authors": [
+        {
+            "name": "Anamoxia"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RPG\\": "src/",
+            "RPG\\Data\\": "data/",
+            "RPG\\Engine\\": "engine/",
+            "RPG\\Classes\\": "classes/",
+            "RPG\\Interfaces\\": "interfaces/"
+        }
+    }
+}
