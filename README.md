@@ -21,11 +21,11 @@ The game is a simple auto-battler. Just run the `index.php` to start.
 ## Setup Instructions
 1. Clone the repository:
      ```bash
-     git clone https://github.com/your-username/php-solid-playground.git
+     git clone https://github.com/powe8525/Silly-PHP-CLI-Game.git
      ```
 2. Navigate to the project directory:
      ```bash
-     cd php-solid-playground
+     cd Silly-PHP-CLI-Game
      ```
 3. Install dependencies (if any):
      ```bash
