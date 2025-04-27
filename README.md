@@ -31,7 +31,11 @@ The game is a simple auto-battler. Just run the `index.php` to start.
      ```bash
      composer install
      ```
-4. Play the game
+4. Update/create the autoloader
+    ```bash
+    composer dump-autoload
+    ```
+5. Play the game
     ```bash
     php index.php
     ```
